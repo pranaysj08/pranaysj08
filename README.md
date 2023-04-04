@@ -1,7 +1,6 @@
 # Pranay-Jadhav
- 💬 Lets connect on **https://www.linkedin.com/in/pranaysjadhav**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">💬 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pranaysjadhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranaysjadhav" height="30" width="40" /></a>
 </p>
