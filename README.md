@@ -1,7 +1,11 @@
 👋🏻 Hey, I'm Pranay Jadhav.
+
 📓 I’m a certified data analyst who enjoys documenting his learning journey.
+
 💯 I'm well equipped with data analysis and data visualization tools.
+
 👨‍💻 I'm currently learning Web Scraping and storytelling.
+
 👐 I’m open to collaborate on data analysis projects and get into the corporate field.
 
 <h3 align="left">💬 Connect with me:</h3>
